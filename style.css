@@ -1,5 +1,5 @@
 :root {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Roboto, sans-serif;
     --dark: #333;
     --dark- : #111;
     --light: #EEE;
@@ -57,9 +57,12 @@ nav a {
     width: 100%;
     text-align: center;
     padding: 0.8rem;
-    margin: 0 0.1rem;
     text-decoration: none;
     border-radius: 0.5rem;
+}
+
+nav a + a {
+    margin-left: 0.1rem;
 }
 
 nav a:hover {
@@ -89,6 +92,11 @@ footer {
         float: left;
     }
     
+    
+    nav a + a {
+        margin-left: 0;
+    }
+
     nav a {
         width: calc(100% - 0.6rem);
         float: none;

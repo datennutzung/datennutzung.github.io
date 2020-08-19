@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
         <!-- External Links -->
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
         <!--My Customization -->
         <link rel="stylesheet" type="text/css" href="./style.css">
@@ -15,29 +16,53 @@
     </head>
     <body>
         <header>
-            <a href="#home"><img src="logo.png" alt="Logo" class="circle" id="logo"></a>
+            <a href="#home"><img src="logo.png" alt="Logo" class="circle" id="logo" /></a>
         </header>
         <nav>
             <a class="active" href="#home">🏠 Home</a>
-            <a href="#news">📰 News</a>
+            <a href="#projects">🌌 Projects</a>
             <a href="#contact">🎫 Contact</a>
-            <a href="#about">ℹ About</a>
+            <a href="#impressum">📃 Legal Stuff</a>
         </nav>
         <main id="content">
             <h1>This Page is currently under construction</h1>
             <h2>Projects</h2>
             <ul>
-                <li><a href="/html_text_only/">HTML Text Only</a></li>
-                <li><a href="/graph_clock/">Graph Clock</a></li>
-                <li><a href="/web_zeb_list_creator/">Zeus to WebZEB</a></li>
-                <li><a href="/match_maker/">Match Maker</a></li>
-                <li><a href="/brown/">Brown.</a></li>
-                <li><a href="/happy_xmas_tree/">Happy X-Mas Tree</a></li>
-                <li><a href="/calc_version_number/">Version Number</a></li>
-                <li><a href="/ghost_blood_logo/">Ghost Blood Logo</a></li>
-                <li><a href="https://github.com/datennutzung/miniturize_open_computers">Miniturize Open Computers *</a></li>
-                <li><a href="https://github.com/datennutzung/tableau-extension">Tableau Extension *</a></li>
+                <li><a href="https://datennutzung.github.io/html_text_only/">HTML Text Only</a></li>
+                <li><a href="https://datennutzung.github.io//graph_clock/">Graph Clock</a></li>
+                <li><a href="https://datennutzung.github.io//web_zeb_list_creator/">Zeus to WebZEB</a></li>
+                <li><a href="https://datennutzung.github.io//match_maker/">Match Maker</a></li>
+                <li><a href="https://datennutzung.github.io//brown/">Brown.</a></li>
+                <li><a href="https://datennutzung.github.io//happy_xmas_tree/">Happy X-Mas Tree</a></li>
+                <li><a href="https://datennutzung.github.io//calc_version_number/">Version Number</a></li>
+                <li><a href="https://datennutzung.github.io//ghost_blood_logo/">Ghost Blood Logo</a></li>
+                <li><a href="https://github.com/datennutzung/miniturize_open_computers" class="github">Miniturize Open Computers</a></li>
+                <li><a href="https://github.com/datennutzung/tableau-extension" class="github">Tableau Extension</a></li>
             </ul>
+
+            <h2>Contact</h2>
+            <ul>
+                <li><a href="https://twitter.com/datennutzung">Twitter</a></li>
+                <li><a href="https://reddit.com/u/LordMiron">Reddit</a></li>
+                <li><a href="https://t.me/MironGertis">Telegram</a></li>
+            </ul>
+            <form style="display: flex; flex-direction: column;">
+
+                <label for="name">📛 Name</label>
+                <input type="text" id="name" name="name" placeholder="Name" />
+                
+                <label for="email">📧 E-Mail</label>
+                <input type="email" id="email" name="email" placeholder="name@example.com" />
+
+                <label for="subject">📝 Message</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+            
+                <input type="submit" value="Submit" />
+            
+            </form>
+
+            <h2>Contact</h2>
+            <p>For legal inqueries send an e-mail to <a href="mailto://miron.gertis@t-online.de-mail.de">miron.gertis@t-online.de-mail.de</a></p>
         </main>
         <footer>
             &copy; 2020 - Miron Gertis
