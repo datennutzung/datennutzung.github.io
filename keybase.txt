@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/isalnum
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://datennutzung.github.io
+  * I am isalnum (https://keybase.io/isalnum) on keybase.
+  * I have a public key with fingerprint A841 0FBC 9E7D 43F4 E803  B63D 3276 60CD 4A40 5098
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200c2d0f7b237423860317ed336ced818797ce777720dca595f7a30561f0665b3b0a",
+      "fingerprint": "a8410fbc9e7d43f4e803b63d327660cd4a405098",
+      "host": "keybase.io",
+      "key_id": "327660cd4a405098",
+      "kid": "0116f48fe6adfa4475f9844ae846adf962209a7532a7aed27a8a2b52362256846c210a",
+      "uid": "0f53c384abcc6c42ef7d8201c7977d19",
+      "username": "isalnum"
+    },
+    "service": {
+      "hostname": "datennutzung.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1615939347,
+  "expire_in": 157680000,
+  "prev": "32c55300564ccdc4ff665639dd469bf8269c8bbe5cc309e1fa12b85a35734edb",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMF1AnicbVI7a1RBGL2riWBAENSUFgOxWsO8Z+4Wks4HgqZTCzfz+GZzyebe9T5W
+YwiInYKPTmPjo9TCQoOFVcRGgjb+ADsbK/EH6NxN0vk1w3xzzpnzPT4fOZjMzNLx
+0tcLC5efdna2XzbJ0uLZY+vIFn4N9dbRCkwOGHqo6v5K5lEPYUIxdtTjoCxlilOm
+JWZEgWdMOvCaaJUqByoGxd4ZkYqgDMNCkoClFJZZbFAXhSwfQDkqs7yOskZzgoN1
+KSjPWeCgMbOSeUaVlNh5bjgWONWRuFxULSOas6aC+ayIuXjpT+z9B7/vm8jAdQBp
+fDCcKxFSzbkBzdtMKinFqVGCUaMMeKqMNtQKyuKDkBHkKJn4bnblgmCOaW6sc9Jx
+CkF5TTFxsXjlSdoCKyhzswoRnVVmmDeraKOLYnKcOWj72hayB/Cmhjxv6ttNPpgf
+ZPVyY3cLG5VFXbhiGDHLdT2qeq1GvTZqSTfB9vfk+jbLfWxoZIyhrLIiRz0Ska7O
+Wn0iiUhZyrjqIrg1ykroZy1CKKlxjPYfGE/a54RgOA6LO+cdDyFOTLLUey5TGzSV
+qdPWgnCO4RRIMIRaLQwTinHwFrUF3sgL1GMy+jSDqFllg9zUTQlo49P1qWR2Jjk0
+faBdtGTm8NH99fvwqJO8eAiv5s6f/vH47bnFL9dm32x+P7k19fPeRXi9szV+PzrT
+SR58vHvnePXn3bPh8xOd6W/y/u/uAr9y6tL25pNfc3+vTv8D4y3fIw==
+=nTfH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/isalnum
+
+==================================================================
